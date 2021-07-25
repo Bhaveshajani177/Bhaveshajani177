@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhaveshajani177
 - 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning Angular and Python.
+- 🌱 I’m currently learning javascript.
 - 📫 you can reach me at email: bhaveshajani177@gmail.com
 
 <!---
