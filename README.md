@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhaveshajani177
+- 👋 Hi, I’m Bhavesh Ajani
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning javascript.
 - 📫 you can reach me at email: bhaveshajani177@gmail.com
