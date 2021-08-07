@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhavesh Ajani
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning javascript.
+- 👀 I’m interested in Frontend Development.
+- 🌱 I’m currently learning JavaScript.
 - 📫 you can reach me at email: bhaveshajani177@gmail.com
 
 <!---
