@@ -25,7 +25,7 @@
 </p>
 
 ### Profile Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=bhaveshajani177&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Bhaveshajani177&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaveshajani177&theme=tokyonight)
